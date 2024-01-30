@@ -1,4 +1,5 @@
 public class Node {
+    public String key;
     Node next;
     Object data;
 
