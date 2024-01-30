@@ -1,0 +1,32 @@
+
+  // IntelliJ API Decompiler stub source generated from a class file
+  // Implementation of methods is not available
+
+public class MyLinkedTest {
+    private Node head;
+    private int numNodes;
+
+    public MyLinkedTest(java.lang.Object data) { /* compiled code */ }
+
+    public void add(java.lang.Object data) { /* compiled code */ }
+
+    public void addFirst(java.lang.Object data) { /* compiled code */ }
+
+    public void addLast(java.lang.Object data) { /* compiled code */ }
+
+    public void remove(int index) { /* compiled code */ }
+
+    public void remove(java.lang.Object data) { /* compiled code */ }
+
+    public java.lang.Object get(int index) { /* compiled code */ }
+
+    public int size() { /* compiled code */ }
+
+    public void printList() { /* compiled code */ }
+
+    public MyLinkedTest clone() { /* compiled code */ }
+
+    public boolean contains(java.lang.Object data) { /* compiled code */ }
+
+    public int indexOf(java.lang.Object data) { /* compiled code */ }
+}
